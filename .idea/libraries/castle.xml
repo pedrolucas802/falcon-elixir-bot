@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="castle" type="mix">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/castle/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/castle/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/castle/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/castle/ebin" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/deps/castle/lib" />
+      <root url="file://$PROJECT_DIR$/deps/castle/lib" />
+    </SOURCES>
+  </library>
+</component>
